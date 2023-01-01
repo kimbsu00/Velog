@@ -5,17 +5,20 @@
     android:layout_height="wrap_content">
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="match_parent"
+        android:id="@+id/tv_footerItem"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:background="#4CAF50"
         android:gravity="center"
-        android:padding="30dp"
-        android:text="Type B"
-        android:textColor="#ffffff"
-        android:textSize="15sp"
+        android:paddingLeft="15dp"
+        android:paddingTop="10dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="10dp"
+        android:textColor="#202020"
+        android:textSize="16dp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
