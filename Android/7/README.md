@@ -10,7 +10,7 @@
 
 ## 실행결과
 
-![7_gif_30_percent](https://user-images.githubusercontent.com/58127442/153866972-6b65fcc3-fddb-472f-8675-1fc9560f59e4.gif)
+https://user-images.githubusercontent.com/58127442/210167443-2c9bd060-7639-473d-8f0a-45041ccf3999.mp4
 
 ---
 
